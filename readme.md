@@ -6,12 +6,12 @@
 * 如果有任何疑惑或者建议，欢迎联系交流<br />
 * 联系方式：QQ`375663014`
 
-##项目截图1
+## 项目截图1
 ![Image text](https://github.com/yangyanjun/React-demo-bootstrap/blob/master/img-readme/1.png)
 
-##项目截图2
+## 项目截图2
 ![Image text](https://github.com/yangyanjun/React-demo-bootstrap/blob/master/img-readme/2.png)
 
-##项目截图3
+## 项目截图3
 ![Image text](https://github.com/yangyanjun/React-demo-bootstrap/blob/master/img-readme/3.png)
 
